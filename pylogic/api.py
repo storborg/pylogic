@@ -15,7 +15,7 @@ class ArgumentError(Exception):
 
 class CommandError(Exception):
     """
-    Raised when the Saleaa software returns an error condition.
+    Raised when the Saleae software returns an error condition.
     """
     pass
 

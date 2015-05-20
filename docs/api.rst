@@ -4,6 +4,14 @@ API Reference
 Socket API
 ----------
 
-.. automodule:: pylogic.api
+.. autoexception:: pylogic.api.ArgumentError
+
+.. autoexception:: pylogic.api.CommandError
+
+.. autoexception:: pylogic.api.InvalidResponse
+
+.. autoclass:: pylogic.api.API
     :members:
     :undoc-members:
+
+
