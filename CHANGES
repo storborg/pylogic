@@ -1,0 +1,7 @@
+PyLogic Changelog
+=================
+
+Version 0.1
+-----------
+
+- Initial release. Only the Socket Scripting Interface is currently supported.
